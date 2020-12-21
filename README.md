@@ -5,8 +5,7 @@
 ![](reserve.png)
 
 ## User Story
-As a USER
-I WANT to be able to have an easy way to study and collaborate with my peers via live chat room and also reserve future study sessions.
+AS A remote learning student I WANT to be able to interact with other remote learning students in a focused manner via study group booking and messaging SO THAT I can gain further proficiency in the topic of study.
 
 Description: The Study Buddy app solves the real world problem of finding other students for a live chat session. As members of a new virtual bootcamp program we recognized the need to find other current students who are up for a live study session. We also recognize that students may want to reserve future study sessions if they aren't available for the live chat. The app integrates React JS and Socket.io to live chat . The  motivation to build this project was to help students achieve success by having an accessible website that is easy to navigate. Having chat functionality is paramount to our application's success. Remote learning students may be weak in some class content areas but strong in others. Focused collaboration will help students fill in knowledge gaps for each other. A student would benefit greatly from being able to use this application and share that knowledge.
 
