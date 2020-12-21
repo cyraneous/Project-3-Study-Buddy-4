@@ -13,7 +13,7 @@ Technologies used: React JS, Node, Express, Socket.io, AuthO, and MongoDB.
 
 Challenges:  Learning new technologies like socket.io and AuthO. Merging the frontend and backend was quite a challenge so as of now the app deploys on a front and back localhost (3000 and 8000 respectively). 
 
-Future development: Merged deployment, Heroku deployment, Live video chatting, creating tasks list, ability to create and drive/upload files, reservation persistance,  and reservation reminders.  
+Future development: Merged deployment, Heroku deployment, Live video chatting, creating tasks list, ability to create and drive/upload files, reservation persistance/editing,  and reservation reminders.  
 
 Installation: clone repo
 
