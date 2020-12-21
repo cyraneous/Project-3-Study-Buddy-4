@@ -1,7 +1,7 @@
 # Studdy-Buddy
 
-![](login.PNG)
-![](reserve.PNG)
+![](login.png)
+![](reserve.png)
 
 ## User Story
 As a USER
@@ -17,9 +17,9 @@ Future development: Merged deployment, Heroku deployment, Live video chatting, c
 
 Installation: clone repo
 
-    Front: npm install, npm i axios, npm i socket.io-client, npm start
+   Front: npm install, npm i axios, npm i socket.io-client, npm start
 
-    Back: npm install, npm i socket.io, mongod, npm start
+   Back: npm install, npm i socket.io, mongod, npm start
 
 Run: Using Chrome or a favorite browser copy link
     Front: https://localhost:3000/ 
@@ -27,6 +27,6 @@ Run: Using Chrome or a favorite browser copy link
 
 Deployed: deploy locally 
 
-GitHub repo:
+GitHub repo: https://github.com/cyraneous/Project-3-Study-Buddy-4
 
 Authors and acknowledgment: Developed by Melanie Cisler, Cyrus Hanson, Ryan Tervo, Liban Esse, Yusuf Sharif 
