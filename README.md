@@ -29,8 +29,10 @@ Run: Using Chrome or a favorite browser copy link
 Deployed: deploy locally 
 
 Page Navigation:
-    Frontend: localhost:3000/reserve, localhost:3000/login, localhost:3000/chat
-    Backend: localhost:8000/ (ideally run in a separate VScode session)
+
+   Frontend: localhost:3000/reserve, localhost:3000/login, localhost:3000/chat
+    
+   Backend: localhost:8000/ (ideally run in a separate VScode session)
 
 GitHub repo: https://github.com/cyraneous/Project-3-Study-Buddy-4
 
