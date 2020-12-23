@@ -4,6 +4,14 @@
 
 ![](reserve.png)
 
+![](Auth0.png)
+
+
+![](AUth0-.png)
+
+
+![](AUth0-1.png)
+
 ## User Story
 AS A remote learning student I WANT to be able to interact with other remote learning students in a focused manner via study group booking and messaging SO THAT I can gain further proficiency in the topic of study.
 
