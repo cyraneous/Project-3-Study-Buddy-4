@@ -1,4 +1,4 @@
-# Studdy-Buddy
+# Study-Buddy
 
 ![](login.png)
 
