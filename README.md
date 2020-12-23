@@ -21,6 +21,12 @@ Installation: clone repo
 
    Back: npm install, npm i socket.io, mongod, npm start
 
+   Login : npm install npm i @auth0/auth0-react
+   Create or login https://auth0.com/ 
+   Create app and setup Allowed Callback URLs, Allowed Logout URLs and Allowed Web Origins by hitting the settings tab.
+   Create .env file and enter your REACT_APP_AUTH0_DOMAIN and
+   REACT_APP_AUTH0_CLIENT_ID value which you can find in the setting tabs.
+
 Run: Using Chrome or a favorite browser copy link
     Front: https://localhost:3000/ 
     Back: https://localhost:8000/
