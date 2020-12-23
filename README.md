@@ -34,6 +34,7 @@ Installation: clone repo
    Create app and setup Allowed Callback URLs, Allowed Logout URLs and Allowed Web Origins by hitting the settings tab.
    Create .env file and enter your REACT_APP_AUTH0_DOMAIN and
    REACT_APP_AUTH0_CLIENT_ID value which you can find in the setting tabs.
+   npm start
 
 Run: Using Chrome or a favorite browser copy link
     Front: https://localhost:3000/ 
